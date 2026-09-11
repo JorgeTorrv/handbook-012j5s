@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://JorgeTorrv.github.io/handbook-012j5s/sitemap.xml
